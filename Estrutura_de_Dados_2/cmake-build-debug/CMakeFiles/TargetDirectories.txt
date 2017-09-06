@@ -1,0 +1,3 @@
+C:/Users/gusta/Desktop/GitHub/CLion_Projects/Estrutura_de_Dados_2/cmake-build-debug/CMakeFiles/Estrutura_de_Dados_2.dir
+C:/Users/gusta/Desktop/GitHub/CLion_Projects/Estrutura_de_Dados_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/gusta/Desktop/GitHub/CLion_Projects/Estrutura_de_Dados_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

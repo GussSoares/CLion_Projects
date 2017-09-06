@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/gusta/Desktop/GitHub/CLion_Projects/Estrutura_de_Dados_2/library.cpp
+library.h
+C:/Users/gusta/Desktop/GitHub/CLion_Projects/Estrutura_de_Dados_2/library.h
+iostream
+-
+
+C:/Users/gusta/Desktop/GitHub/CLion_Projects/Estrutura_de_Dados_2/library.h
+
